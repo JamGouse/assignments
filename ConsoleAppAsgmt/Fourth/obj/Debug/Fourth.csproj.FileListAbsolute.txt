@@ -1,0 +1,12 @@
+E:\HIPL\assignments\FirstAsgmt\Fourth\bin\Debug\Fourth.exe.config
+E:\HIPL\assignments\FirstAsgmt\Fourth\bin\Debug\Fourth.exe
+E:\HIPL\assignments\FirstAsgmt\Fourth\bin\Debug\Fourth.pdb
+E:\HIPL\assignments\FirstAsgmt\Fourth\obj\Debug\Fourth.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\FirstAsgmt\Fourth\obj\Debug\Fourth.exe
+E:\HIPL\assignments\FirstAsgmt\Fourth\obj\Debug\Fourth.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Fourth\bin\Debug\Fourth.exe.config
+E:\HIPL\assignments\ConsoleAppAsgmt\Fourth\obj\Debug\Fourth.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\Fourth\obj\Debug\Fourth.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Fourth\bin\Debug\Fourth.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\Fourth\bin\Debug\Fourth.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Fourth\obj\Debug\Fourth.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\HIPL\assignments\FirstAsgmt\FirstAsgmt\bin\Debug\FirstAsgmt.exe.config
+E:\HIPL\assignments\FirstAsgmt\FirstAsgmt\bin\Debug\FirstAsgmt.exe
+E:\HIPL\assignments\FirstAsgmt\FirstAsgmt\bin\Debug\FirstAsgmt.pdb
+E:\HIPL\assignments\FirstAsgmt\FirstAsgmt\obj\Debug\FirstAsgmt.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\FirstAsgmt\FirstAsgmt\obj\Debug\FirstAsgmt.exe
+E:\HIPL\assignments\FirstAsgmt\FirstAsgmt\obj\Debug\FirstAsgmt.pdb

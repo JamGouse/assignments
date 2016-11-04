@@ -1,0 +1,12 @@
+E:\HIPL\assignments\FirstAsgmt\Third\bin\Debug\Third.exe.config
+E:\HIPL\assignments\FirstAsgmt\Third\bin\Debug\Third.exe
+E:\HIPL\assignments\FirstAsgmt\Third\bin\Debug\Third.pdb
+E:\HIPL\assignments\FirstAsgmt\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\FirstAsgmt\Third\obj\Debug\Third.exe
+E:\HIPL\assignments\FirstAsgmt\Third\obj\Debug\Third.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Third\bin\Debug\Third.exe.config
+E:\HIPL\assignments\ConsoleAppAsgmt\Third\obj\Debug\Third.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\Third\obj\Debug\Third.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Third\bin\Debug\Third.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\Third\bin\Debug\Third.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache

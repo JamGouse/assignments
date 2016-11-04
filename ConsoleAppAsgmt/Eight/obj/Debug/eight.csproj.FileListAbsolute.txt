@@ -1,0 +1,12 @@
+E:\HIPL\assignments\FirstAsgmt\eight\bin\Debug\eight.exe.config
+E:\HIPL\assignments\FirstAsgmt\eight\bin\Debug\eight.exe
+E:\HIPL\assignments\FirstAsgmt\eight\bin\Debug\eight.pdb
+E:\HIPL\assignments\FirstAsgmt\eight\obj\Debug\eight.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\FirstAsgmt\eight\obj\Debug\eight.exe
+E:\HIPL\assignments\FirstAsgmt\eight\obj\Debug\eight.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\eight\bin\Debug\eight.exe.config
+E:\HIPL\assignments\ConsoleAppAsgmt\eight\obj\Debug\eight.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\eight\obj\Debug\eight.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\eight\bin\Debug\eight.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\eight\bin\Debug\eight.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\eight\obj\Debug\eight.csprojResolveAssemblyReference.cache

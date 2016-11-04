@@ -1,0 +1,12 @@
+E:\HIPL\assignments\FirstAsgmt\Second\bin\Debug\Second.exe.config
+E:\HIPL\assignments\FirstAsgmt\Second\bin\Debug\Second.exe
+E:\HIPL\assignments\FirstAsgmt\Second\bin\Debug\Second.pdb
+E:\HIPL\assignments\FirstAsgmt\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\FirstAsgmt\Second\obj\Debug\Second.exe
+E:\HIPL\assignments\FirstAsgmt\Second\obj\Debug\Second.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Second\bin\Debug\Second.exe.config
+E:\HIPL\assignments\ConsoleAppAsgmt\Second\obj\Debug\Second.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\Second\obj\Debug\Second.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Second\bin\Debug\Second.exe
+E:\HIPL\assignments\ConsoleAppAsgmt\Second\bin\Debug\Second.pdb
+E:\HIPL\assignments\ConsoleAppAsgmt\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache
