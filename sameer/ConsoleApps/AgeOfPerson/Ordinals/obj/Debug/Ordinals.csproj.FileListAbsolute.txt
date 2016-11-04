@@ -1,0 +1,6 @@
+D:\Training\ConsoleApps\AgeOfPerson\Ordinals\bin\Debug\Ordinals.exe.config
+D:\Training\ConsoleApps\AgeOfPerson\Ordinals\bin\Debug\Ordinals.exe
+D:\Training\ConsoleApps\AgeOfPerson\Ordinals\bin\Debug\Ordinals.pdb
+D:\Training\ConsoleApps\AgeOfPerson\Ordinals\obj\Debug\Ordinals.csprojResolveAssemblyReference.cache
+D:\Training\ConsoleApps\AgeOfPerson\Ordinals\obj\Debug\Ordinals.exe
+D:\Training\ConsoleApps\AgeOfPerson\Ordinals\obj\Debug\Ordinals.pdb

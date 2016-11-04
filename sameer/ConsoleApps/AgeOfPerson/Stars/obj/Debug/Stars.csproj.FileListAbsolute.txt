@@ -1,0 +1,6 @@
+D:\Training\ConsoleApps\AgeOfPerson\Stars\bin\Debug\Stars.exe.config
+D:\Training\ConsoleApps\AgeOfPerson\Stars\bin\Debug\Stars.exe
+D:\Training\ConsoleApps\AgeOfPerson\Stars\bin\Debug\Stars.pdb
+D:\Training\ConsoleApps\AgeOfPerson\Stars\obj\Debug\Stars.csprojResolveAssemblyReference.cache
+D:\Training\ConsoleApps\AgeOfPerson\Stars\obj\Debug\Stars.exe
+D:\Training\ConsoleApps\AgeOfPerson\Stars\obj\Debug\Stars.pdb
