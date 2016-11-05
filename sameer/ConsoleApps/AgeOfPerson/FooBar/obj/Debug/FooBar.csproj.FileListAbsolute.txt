@@ -1,6 +1,0 @@
-D:\Training\ConsoleApps\AgeOfPerson\FooBar\bin\Debug\FooBar.exe.config
-D:\Training\ConsoleApps\AgeOfPerson\FooBar\bin\Debug\FooBar.exe
-D:\Training\ConsoleApps\AgeOfPerson\FooBar\bin\Debug\FooBar.pdb
-D:\Training\ConsoleApps\AgeOfPerson\FooBar\obj\Debug\FooBar.csprojResolveAssemblyReference.cache
-D:\Training\ConsoleApps\AgeOfPerson\FooBar\obj\Debug\FooBar.exe
-D:\Training\ConsoleApps\AgeOfPerson\FooBar\obj\Debug\FooBar.pdb

@@ -1,6 +1,0 @@
-D:\Training\ConsoleApps\AgeOfPerson\KeyPressed\bin\Debug\KeyPressed.exe.config
-D:\Training\ConsoleApps\AgeOfPerson\KeyPressed\bin\Debug\KeyPressed.exe
-D:\Training\ConsoleApps\AgeOfPerson\KeyPressed\bin\Debug\KeyPressed.pdb
-D:\Training\ConsoleApps\AgeOfPerson\KeyPressed\obj\Debug\KeyPressed.csprojResolveAssemblyReference.cache
-D:\Training\ConsoleApps\AgeOfPerson\KeyPressed\obj\Debug\KeyPressed.exe
-D:\Training\ConsoleApps\AgeOfPerson\KeyPressed\obj\Debug\KeyPressed.pdb

@@ -1,6 +1,0 @@
-D:\Training\ConsoleApps\AgeOfPerson\IncreamentDec\bin\Debug\IncreamentDec.exe.config
-D:\Training\ConsoleApps\AgeOfPerson\IncreamentDec\bin\Debug\IncreamentDec.exe
-D:\Training\ConsoleApps\AgeOfPerson\IncreamentDec\bin\Debug\IncreamentDec.pdb
-D:\Training\ConsoleApps\AgeOfPerson\IncreamentDec\obj\Debug\IncreamentDec.csprojResolveAssemblyReference.cache
-D:\Training\ConsoleApps\AgeOfPerson\IncreamentDec\obj\Debug\IncreamentDec.exe
-D:\Training\ConsoleApps\AgeOfPerson\IncreamentDec\obj\Debug\IncreamentDec.pdb

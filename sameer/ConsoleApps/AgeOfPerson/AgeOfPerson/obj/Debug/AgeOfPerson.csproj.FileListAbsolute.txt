@@ -1,6 +1,0 @@
-D:\Training\ConsoleApps\AgeOfPerson\AgeOfPerson\bin\Debug\AgeOfPerson.exe.config
-D:\Training\ConsoleApps\AgeOfPerson\AgeOfPerson\bin\Debug\AgeOfPerson.exe
-D:\Training\ConsoleApps\AgeOfPerson\AgeOfPerson\bin\Debug\AgeOfPerson.pdb
-D:\Training\ConsoleApps\AgeOfPerson\AgeOfPerson\obj\Debug\AgeOfPerson.csprojResolveAssemblyReference.cache
-D:\Training\ConsoleApps\AgeOfPerson\AgeOfPerson\obj\Debug\AgeOfPerson.exe
-D:\Training\ConsoleApps\AgeOfPerson\AgeOfPerson\obj\Debug\AgeOfPerson.pdb

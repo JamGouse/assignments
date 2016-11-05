@@ -1,6 +1,0 @@
-D:\Training\ConsoleApps\AgeOfPerson\CeltoFar\bin\Debug\CeltoFar.exe.config
-D:\Training\ConsoleApps\AgeOfPerson\CeltoFar\bin\Debug\CeltoFar.exe
-D:\Training\ConsoleApps\AgeOfPerson\CeltoFar\bin\Debug\CeltoFar.pdb
-D:\Training\ConsoleApps\AgeOfPerson\CeltoFar\obj\Debug\CeltoFar.csprojResolveAssemblyReference.cache
-D:\Training\ConsoleApps\AgeOfPerson\CeltoFar\obj\Debug\CeltoFar.exe
-D:\Training\ConsoleApps\AgeOfPerson\CeltoFar\obj\Debug\CeltoFar.pdb
