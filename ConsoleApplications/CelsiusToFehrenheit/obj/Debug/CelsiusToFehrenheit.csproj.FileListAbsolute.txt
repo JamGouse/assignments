@@ -1,0 +1,5 @@
+E:\HIPL\assignments\ConsoleApplications\CelsiusToFehrenheit\bin\Debug\CelsiusToFehrenheit.exe.config
+E:\HIPL\assignments\ConsoleApplications\CelsiusToFehrenheit\bin\Debug\CelsiusToFehrenheit.exe
+E:\HIPL\assignments\ConsoleApplications\CelsiusToFehrenheit\bin\Debug\CelsiusToFehrenheit.pdb
+E:\HIPL\assignments\ConsoleApplications\CelsiusToFehrenheit\obj\Debug\CelsiusToFehrenheit.exe
+E:\HIPL\assignments\ConsoleApplications\CelsiusToFehrenheit\obj\Debug\CelsiusToFehrenheit.pdb

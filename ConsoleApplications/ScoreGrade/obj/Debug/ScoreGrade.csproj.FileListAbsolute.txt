@@ -1,0 +1,5 @@
+E:\HIPL\assignments\ConsoleApplications\ScoreGrade\bin\Debug\ScoreGrade.exe.config
+E:\HIPL\assignments\ConsoleApplications\ScoreGrade\bin\Debug\ScoreGrade.exe
+E:\HIPL\assignments\ConsoleApplications\ScoreGrade\bin\Debug\ScoreGrade.pdb
+E:\HIPL\assignments\ConsoleApplications\ScoreGrade\obj\Debug\ScoreGrade.exe
+E:\HIPL\assignments\ConsoleApplications\ScoreGrade\obj\Debug\ScoreGrade.pdb

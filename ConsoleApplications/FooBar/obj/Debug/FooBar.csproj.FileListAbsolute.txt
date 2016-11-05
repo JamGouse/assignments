@@ -1,0 +1,6 @@
+E:\HIPL\assignments\ConsoleApplications\FooBar\bin\Debug\FooBar.exe.config
+E:\HIPL\assignments\ConsoleApplications\FooBar\bin\Debug\FooBar.exe
+E:\HIPL\assignments\ConsoleApplications\FooBar\bin\Debug\FooBar.pdb
+E:\HIPL\assignments\ConsoleApplications\FooBar\obj\Debug\FooBar.exe
+E:\HIPL\assignments\ConsoleApplications\FooBar\obj\Debug\FooBar.pdb
+E:\HIPL\assignments\ConsoleApplications\FooBar\obj\Debug\FooBar.csprojResolveAssemblyReference.cache

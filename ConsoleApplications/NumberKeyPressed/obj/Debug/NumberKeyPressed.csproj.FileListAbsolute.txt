@@ -1,0 +1,6 @@
+E:\HIPL\assignments\ConsoleApplications\NumberKeyPressed\bin\Debug\NumberKeyPressed.exe.config
+E:\HIPL\assignments\ConsoleApplications\NumberKeyPressed\bin\Debug\NumberKeyPressed.exe
+E:\HIPL\assignments\ConsoleApplications\NumberKeyPressed\bin\Debug\NumberKeyPressed.pdb
+E:\HIPL\assignments\ConsoleApplications\NumberKeyPressed\obj\Debug\NumberKeyPressed.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\ConsoleApplications\NumberKeyPressed\obj\Debug\NumberKeyPressed.exe
+E:\HIPL\assignments\ConsoleApplications\NumberKeyPressed\obj\Debug\NumberKeyPressed.pdb

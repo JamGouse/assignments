@@ -1,0 +1,6 @@
+E:\HIPL\assignments\ConsoleApplications\PrintStars\bin\Debug\PrintStars.exe.config
+E:\HIPL\assignments\ConsoleApplications\PrintStars\bin\Debug\PrintStars.exe
+E:\HIPL\assignments\ConsoleApplications\PrintStars\bin\Debug\PrintStars.pdb
+E:\HIPL\assignments\ConsoleApplications\PrintStars\obj\Debug\PrintStars.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\ConsoleApplications\PrintStars\obj\Debug\PrintStars.exe
+E:\HIPL\assignments\ConsoleApplications\PrintStars\obj\Debug\PrintStars.pdb

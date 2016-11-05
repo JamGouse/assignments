@@ -1,0 +1,6 @@
+E:\HIPL\assignments\ConsoleApplications\Ordinals\bin\Debug\Ordinals.exe.config
+E:\HIPL\assignments\ConsoleApplications\Ordinals\bin\Debug\Ordinals.exe
+E:\HIPL\assignments\ConsoleApplications\Ordinals\bin\Debug\Ordinals.pdb
+E:\HIPL\assignments\ConsoleApplications\Ordinals\obj\Debug\Ordinals.csprojResolveAssemblyReference.cache
+E:\HIPL\assignments\ConsoleApplications\Ordinals\obj\Debug\Ordinals.exe
+E:\HIPL\assignments\ConsoleApplications\Ordinals\obj\Debug\Ordinals.pdb
