@@ -56,6 +56,8 @@ namespace Ordinals
             {
                 suffix = "rd";
             }
+            else
+                suffix = "th";
             return (suffix);
         }
     }
