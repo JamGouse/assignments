@@ -10,6 +10,8 @@ namespace ReverseArray
     {
         static void Main(string[] args)
         {
+            try
+            {
             Console.Write("How many numbers do you want to enter? :");
             int numbers = int.Parse(Console.ReadLine());
             int[] array = new int[numbers];
@@ -20,6 +22,11 @@ namespace ReverseArray
             GetArray(array);
             Console.WriteLine("Entered numbers in reverse orders are: ");
             Reverse(array);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
             Console.ReadLine();
         }
 
